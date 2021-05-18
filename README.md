@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Atualmente sou **Gerente de Inovação** no ***Labs*** da Allin / Socialminer, desenvolvendo, criando e inventando diversos tipos de projetos e tecnoligias para provar algumas hipóteses ou até mesmo para lançar um produto novo;
+- 🔭 Atualmente sou **Gerente de Inovação** no ***Labs*** da Allin / Socialminer, desenvolvendo, criando e inventando diversos tipos de projetos e tecnologias para provar algumas hipóteses ou até mesmo para criar um produto novo;
 
 - 🌱 Atualmente estou aprendendo mais sobre inteligência artificial e deep fake;
 
