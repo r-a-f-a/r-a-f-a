@@ -4,7 +4,7 @@ Hi 👋 My name is Rafael Rodrigues
 Lead Enginner
 -------------
 
-I am currently Innovation Manager at Labs on Allin ( Locaweb ). Developing, creating and inventing different types of projects and technologies to prove some hypotheses or even create a new product for the company.
+I am currently Innovation Manager at Allin Labs (Locaweb). Developing, creating and inventing different types of projects and technologies to prove some hypotheses or even create a new product for the company.
 
 * 🌍  I'm based in São Paulo - Brazil
 * ✉️  You can contact me at [rrsilvadev@gmail.com](mailto:rrsilvadev@gmail.com)
