@@ -69,6 +69,5 @@ src="https://img.shields.io/twitch/status/saintrafix?logo=twitchsx&style=for-the
 
 <a href="http://www.github.com/r-a-f-a"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r-a-f-a&stroke=3382ed&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=3382ed&currStreakLabel=ffffff&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/r-a-f-a"><img src="https://activity-graph.herokuapp.com/graph?username=r-a-f-a&bg_color=0f172a&color=3382ed&line=ffffff&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/r-a-f-a" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-a-f-a&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
