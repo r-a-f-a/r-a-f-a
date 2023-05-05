@@ -4,7 +4,13 @@ Hi 👋 My name is Rafael Rodrigues
 Lead Enginner
 -------------
 
-I am currently Innovation Manager at Allin Labs (Locaweb). Developing, creating and inventing different types of projects and technologies to prove some hypotheses or even create a new product for the company.
+I am currently Tech Manager at <a href="https://wake.tech">Wake Tech</a> (Locaweb),Leading the BI, Innovation, SysOpse and Experiences Module teams.
+
+In this role, I work with Tech Leads and PMs to organize and execute all demands and objectives, always aiming to achieve OKRs within deadlines, focusing on quality and performance.
+
+In addition, I have a special focus on people management, preparing action plans for the development and individual growth of each team member.
+
+Always looking for innovations, improvements and processes, I am driven by the desire to find new solutions to challenges and exceed the expectations of our customers and end users.
 
 * 🌍  I'm based in São Paulo - Brazil
 * ✉️  You can contact me at [rrsilvadev@gmail.com](mailto:rrsilvadev@gmail.com)
