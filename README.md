@@ -4,7 +4,7 @@ Hi 👋 My name is Rafael Rodrigues
 Tech Manager
 -------------
 
-I am currently Tech Manager at <a href="https://wake.tech">Wake Tech</a> (Locaweb),Leading the BI, Innovation, SysOps and Experiences Module teams.
+I am currently Tech Manager at <a href="https://wake.tech">Wake Tech</a> (Locaweb),Leading BI, Innovation, SysOps and Experiences Module teams.
 
 In this role, I work with Tech Leads and PMs to organize and execute all demands and objectives, always aiming to achieve OKRs within deadlines, focusing on quality and performance.
 
